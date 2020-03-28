@@ -1,0 +1,10 @@
+{
+    "type": "postgresql",
+    "host": "192.168.1.18",
+    "port": 5432,
+    "username": "postgres",
+    "password": "docker",
+    "database": "pogojutsu-db",
+    "synchronize": true,
+    "autoLoadEntities": true
+  }
